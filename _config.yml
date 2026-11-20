@@ -1,0 +1,13 @@
+title: "PHP MySQL Projects with Source Code"
+description: "Self-hosted PHP 8 + MySQL web applications: POS, ERP, ISP billing, school, hospital, job portal and more."
+url: "https://rameezimdad.github.io"
+baseurl: "/php-mysql-projects-catalog"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+show_downloads: false
